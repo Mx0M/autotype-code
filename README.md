@@ -20,3 +20,5 @@ In `settings.json`:
   "autoTypeReplay.sourceFile": "src/demo.py"
 }
 ```
+   ![output 1](images/output1.gif)
+   ![output 2](images/output2.gif)
