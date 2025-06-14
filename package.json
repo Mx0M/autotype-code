@@ -1,7 +1,9 @@
 {
-  "name": "auto-type-code",
-  "displayName": "auto-type-code",
-  "description": "",
+  "name": "auto-type-ucode",
+  "displayName": "auto-type-ucode",
+  "description": "Auto Type Code is a Visual Studio Code extension that simulates real-time code typing into the editor.",
+  "publisher": "mkswebs",
+  "repository": "https://github.com/mukesh303/autotype-code.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
