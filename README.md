@@ -9,6 +9,7 @@ Auto Type Code is a Visual Studio Code extension that simulates real-time code t
 - Configurable typing speed (`characters per second`)
 - Optional file path to replay from
 - Cursor movement and auto-scrolling for realistic typing effect
+- hotkey :  ctrl + alt + k  
 
 ## ⚙️ Configuration
 
