@@ -4,7 +4,7 @@
   "description": "Auto Type Code is a Visual Studio Code extension that simulates real-time code typing into the editor.",
   "publisher": "mkswebs",
   "repository": "https://github.com/mukesh303/autotype-code.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -40,6 +40,16 @@
           "type": "string",
           "default": "replay-code.txt",
           "description": "File path to source code for replay"
+        },
+        "autoTypeReplay.startLine": {
+          "type": "number",
+          "default": 0,
+          "description": "Starting line of auto typing"
+        },
+        "autoTypeReplay.sourceSkipLine": {
+          "type": "number",
+          "default": 0,
+          "description": "Skipping lines from source file of auto typing"
         }
       }
     }
