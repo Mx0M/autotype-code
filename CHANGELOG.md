@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+### Added
+
+- v0.2 editor statline is configurable
+- v0.2 skip the lines from sourcefile is configurable
