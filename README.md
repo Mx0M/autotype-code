@@ -9,7 +9,8 @@ Auto Type Code is a Visual Studio Code extension that simulates real-time code t
 - Configurable typing speed (`characters per second`)
 - Optional file path to replay from
 - Cursor movement and auto-scrolling for realistic typing effect
-- hotkey :  ctrl + alt + k  
+- hotkey :  ctrl + alt + k
+- If the 'autoTypeReplay.sourceFile' setting is blank, the script will detect the active file in the editor and automatically type into a new file after pressing the hotkey.
 
 ## ⚙️ Configuration
 
