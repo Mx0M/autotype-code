@@ -11,6 +11,22 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+  "auto-type",
+  "auto typer",
+  "typewriter effect",
+  "simulate typing",
+  "editor automation",
+  "vscode typing",
+  "start typing from line",
+  "skip lines",
+  "code presentation",
+  "demo typing",
+  "typing animation",
+  "live coding",
+  "cursor jump",
+  "editor control"
+],
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
